@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.0.0" sequence="0" timestamp="1596284166661" analysisTimestamp="1596288339841" release="">
+  <Project>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\About$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\About$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\About.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\AllStudent$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\AllStudent$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\AllStudent$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\AllStudent$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\AllStudent$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\AllStudent$6.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\AllStudent$7.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\AllStudent$8.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\AllStudent.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\BookDao.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\BookForm$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\BookForm$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\BookForm$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\BookForm$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\BookForm$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\BookForm$6.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\BookForm$7.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\BookForm$8.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\BookForm$9.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\BookForm.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\DB.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\DeleteBook$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\DeleteBook$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\DeleteBook$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\DeleteBook$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\DeleteBook.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\IssueBookForm$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\IssueBookForm$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\IssueBookForm$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\IssueBookForm$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\IssueBookForm$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\IssueBookForm$6.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\IssueBookForm$7.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\IssueBookForm$8.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\IssueBookForm.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianDao.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianLogin$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianLogin$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianLogin$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianLogin$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianLogin$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianLogin.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$10.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$11.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$12.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$13.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$14.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$6.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$7.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$8.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess$9.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\LibrarianSuccess.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\MainLibrary$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\MainLibrary$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\MainLibrary$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\MainLibrary$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\MainLibrary$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\MainLibrary.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\NewView$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\NewView$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\NewView$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\NewView$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\NewView$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\NewView$6.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\NewView$7.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\NewView$8.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\NewView$9.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\NewView.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ReturnBookForm$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ReturnBookForm$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ReturnBookForm$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ReturnBookForm$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ReturnBookForm$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ReturnBookForm$6.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ReturnBookForm$7.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ReturnBookForm.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\TransBookDao.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserForm$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserForm$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserForm$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserForm$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserForm$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserForm$6.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserForm$7.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserForm$8.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserForm.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLogin$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLogin$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLogin$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLogin$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLogin$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLogin.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLoginSuccess$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLoginSuccess$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLoginSuccess$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLoginSuccess$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLoginSuccess$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserLoginSuccess.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UsersDao.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserView$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserView$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserView$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserView.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserViewBook$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserViewBook$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserViewBook$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserViewBook$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserViewBook$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserViewBook$6.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserViewBook$7.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserViewBook$8.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserViewBook$9.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\UserViewBook.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ViewBook$1.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ViewBook$2.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ViewBook$3.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ViewBook$4.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ViewBook$5.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ViewBook$6.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ViewBook$7.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ViewBook$8.class</Jar>
+    <Jar>C:\Users\dcava\Documents\NetBeansProjects\securityProject\build\classes\mainlibrary\ViewBook.class</Jar>
+    <AuxClasspathEntry>C:\Users\dcava\Documents\NetBeansProjects\securityProject</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\dcava\Documents\NetBeansProjects\securityProject\dist\lib\mysql-connector-java-5.1.45-bin.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\dcava\Documents\NetBeansProjects\securityProject\dist\securityProject.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\dcava\Documents\NetBeansProjects\securityProject\mysql-connector-java-5.1.45-bin.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\dcava\Documents\NetBeansProjects\securityProject\securityProject.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\dcava\Documents\NetBeansProjects\securityProject\.scannerwork\findbugs\annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\dcava\Documents\NetBeansProjects\securityProject\.scannerwork\findbugs\jsr305.jar</AuxClasspathEntry>
+    <WrkDir>C:\Users\dcava\Documents\NetBeansProjects\securityProject\.scannerwork</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Sat, 1 Aug 2020 13:16:06 +0100" total_classes="130" referenced_classes="452" total_bugs="0" total_size="4097" num_packages="1" java_version="11.0.3" vm_version="11.0.3+7" cpu_seconds="25.12" clock_seconds="5.65" peak_mbytes="730.18" alloc_mbytes="4042.00" gc_seconds="0.08">
+    <FileStats path="mainlibrary/About.java" bugCount="0" size="91"/>
+    <FileStats path="mainlibrary/AllStudent.java" bugCount="0" size="312"/>
+    <FileStats path="mainlibrary/BookDao.java" bugCount="0" size="58"/>
+    <FileStats path="mainlibrary/BookForm.java" bugCount="0" size="266"/>
+    <FileStats path="mainlibrary/DB.java" bugCount="0" size="22"/>
+    <FileStats path="mainlibrary/DeleteBook.java" bugCount="0" size="146"/>
+    <FileStats path="mainlibrary/IssueBookForm.java" bugCount="0" size="288"/>
+    <FileStats path="mainlibrary/LibrarianDao.java" bugCount="0" size="42"/>
+    <FileStats path="mainlibrary/LibrarianLogin.java" bugCount="0" size="181"/>
+    <FileStats path="mainlibrary/LibrarianSuccess.java" bugCount="0" size="367"/>
+    <FileStats path="mainlibrary/MainLibrary.java" bugCount="0" size="135"/>
+    <FileStats path="mainlibrary/NewView.java" bugCount="0" size="345"/>
+    <FileStats path="mainlibrary/ReturnBookForm.java" bugCount="0" size="227"/>
+    <FileStats path="mainlibrary/TransBookDao.java" bugCount="0" size="114"/>
+    <FileStats path="mainlibrary/UserForm.java" bugCount="0" size="260"/>
+    <FileStats path="mainlibrary/UserLogin.java" bugCount="0" size="178"/>
+    <FileStats path="mainlibrary/UserLoginSuccess.java" bugCount="0" size="231"/>
+    <FileStats path="mainlibrary/UserView.java" bugCount="0" size="118"/>
+    <FileStats path="mainlibrary/UserViewBook.java" bugCount="0" size="362"/>
+    <FileStats path="mainlibrary/UsersDao.java" bugCount="0" size="41"/>
+    <FileStats path="mainlibrary/ViewBook.java" bugCount="0" size="313"/>
+    <PackageStats package="mainlibrary" total_bugs="0" total_types="130" total_size="4097">
+      <ClassStats class="mainlibrary.About" sourceFile="About.java" interface="false" size="78" bugs="0"/>
+      <ClassStats class="mainlibrary.About$1" sourceFile="About.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.About$2" sourceFile="About.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="mainlibrary.AllStudent" sourceFile="AllStudent.java" interface="false" size="249" bugs="0"/>
+      <ClassStats class="mainlibrary.AllStudent$1" sourceFile="AllStudent.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="mainlibrary.AllStudent$2" sourceFile="AllStudent.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.AllStudent$3" sourceFile="AllStudent.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.AllStudent$4" sourceFile="AllStudent.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.AllStudent$5" sourceFile="AllStudent.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.AllStudent$6" sourceFile="AllStudent.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.AllStudent$7" sourceFile="AllStudent.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.AllStudent$8" sourceFile="AllStudent.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="mainlibrary.BookDao" sourceFile="BookDao.java" interface="false" size="58" bugs="0"/>
+      <ClassStats class="mainlibrary.BookForm" sourceFile="BookForm.java" interface="false" size="204" bugs="0"/>
+      <ClassStats class="mainlibrary.BookForm$1" sourceFile="BookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.BookForm$2" sourceFile="BookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.BookForm$3" sourceFile="BookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.BookForm$4" sourceFile="BookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.BookForm$5" sourceFile="BookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.BookForm$6" sourceFile="BookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.BookForm$7" sourceFile="BookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.BookForm$8" sourceFile="BookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.BookForm$9" sourceFile="BookForm.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="mainlibrary.DB" sourceFile="DB.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="mainlibrary.DeleteBook" sourceFile="DeleteBook.java" interface="false" size="119" bugs="0"/>
+      <ClassStats class="mainlibrary.DeleteBook$1" sourceFile="DeleteBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.DeleteBook$2" sourceFile="DeleteBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.DeleteBook$3" sourceFile="DeleteBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.DeleteBook$4" sourceFile="DeleteBook.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="mainlibrary.IssueBookForm" sourceFile="IssueBookForm.java" interface="false" size="233" bugs="0"/>
+      <ClassStats class="mainlibrary.IssueBookForm$1" sourceFile="IssueBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.IssueBookForm$2" sourceFile="IssueBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.IssueBookForm$3" sourceFile="IssueBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.IssueBookForm$4" sourceFile="IssueBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.IssueBookForm$5" sourceFile="IssueBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.IssueBookForm$6" sourceFile="IssueBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.IssueBookForm$7" sourceFile="IssueBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.IssueBookForm$8" sourceFile="IssueBookForm.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianDao" sourceFile="LibrarianDao.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianLogin" sourceFile="LibrarianLogin.java" interface="false" size="146" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianLogin$1" sourceFile="LibrarianLogin.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianLogin$2" sourceFile="LibrarianLogin.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianLogin$3" sourceFile="LibrarianLogin.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianLogin$4" sourceFile="LibrarianLogin.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianLogin$5" sourceFile="LibrarianLogin.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess" sourceFile="LibrarianSuccess.java" interface="false" size="269" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$1" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$10" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$11" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$12" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$13" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$14" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$2" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$3" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$4" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$5" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$6" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$7" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$8" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.LibrarianSuccess$9" sourceFile="LibrarianSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.MainLibrary" sourceFile="MainLibrary.java" interface="false" size="101" bugs="0"/>
+      <ClassStats class="mainlibrary.MainLibrary$1" sourceFile="MainLibrary.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.MainLibrary$2" sourceFile="MainLibrary.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.MainLibrary$3" sourceFile="MainLibrary.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.MainLibrary$4" sourceFile="MainLibrary.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.MainLibrary$5" sourceFile="MainLibrary.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="mainlibrary.NewView" sourceFile="NewView.java" interface="false" size="275" bugs="0"/>
+      <ClassStats class="mainlibrary.NewView$1" sourceFile="NewView.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="mainlibrary.NewView$2" sourceFile="NewView.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.NewView$3" sourceFile="NewView.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.NewView$4" sourceFile="NewView.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.NewView$5" sourceFile="NewView.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.NewView$6" sourceFile="NewView.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.NewView$7" sourceFile="NewView.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.NewView$8" sourceFile="NewView.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.NewView$9" sourceFile="NewView.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="mainlibrary.ReturnBookForm" sourceFile="ReturnBookForm.java" interface="false" size="179" bugs="0"/>
+      <ClassStats class="mainlibrary.ReturnBookForm$1" sourceFile="ReturnBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ReturnBookForm$2" sourceFile="ReturnBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ReturnBookForm$3" sourceFile="ReturnBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ReturnBookForm$4" sourceFile="ReturnBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ReturnBookForm$5" sourceFile="ReturnBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ReturnBookForm$6" sourceFile="ReturnBookForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ReturnBookForm$7" sourceFile="ReturnBookForm.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="mainlibrary.TransBookDao" sourceFile="TransBookDao.java" interface="false" size="114" bugs="0"/>
+      <ClassStats class="mainlibrary.UserForm" sourceFile="UserForm.java" interface="false" size="205" bugs="0"/>
+      <ClassStats class="mainlibrary.UserForm$1" sourceFile="UserForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserForm$2" sourceFile="UserForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserForm$3" sourceFile="UserForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserForm$4" sourceFile="UserForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserForm$5" sourceFile="UserForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserForm$6" sourceFile="UserForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserForm$7" sourceFile="UserForm.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserForm$8" sourceFile="UserForm.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLogin" sourceFile="UserLogin.java" interface="false" size="144" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLogin$1" sourceFile="UserLogin.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLogin$2" sourceFile="UserLogin.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLogin$3" sourceFile="UserLogin.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLogin$4" sourceFile="UserLogin.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLogin$5" sourceFile="UserLogin.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLoginSuccess" sourceFile="UserLoginSuccess.java" interface="false" size="197" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLoginSuccess$1" sourceFile="UserLoginSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLoginSuccess$2" sourceFile="UserLoginSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLoginSuccess$3" sourceFile="UserLoginSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLoginSuccess$4" sourceFile="UserLoginSuccess.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserLoginSuccess$5" sourceFile="UserLoginSuccess.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="mainlibrary.UserView" sourceFile="UserView.java" interface="false" size="90" bugs="0"/>
+      <ClassStats class="mainlibrary.UserView$1" sourceFile="UserView.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="mainlibrary.UserView$2" sourceFile="UserView.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserView$3" sourceFile="UserView.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="mainlibrary.UserViewBook" sourceFile="UserViewBook.java" interface="false" size="292" bugs="0"/>
+      <ClassStats class="mainlibrary.UserViewBook$1" sourceFile="UserViewBook.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="mainlibrary.UserViewBook$2" sourceFile="UserViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserViewBook$3" sourceFile="UserViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserViewBook$4" sourceFile="UserViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserViewBook$5" sourceFile="UserViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserViewBook$6" sourceFile="UserViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserViewBook$7" sourceFile="UserViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserViewBook$8" sourceFile="UserViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.UserViewBook$9" sourceFile="UserViewBook.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="mainlibrary.UsersDao" sourceFile="UsersDao.java" interface="false" size="41" bugs="0"/>
+      <ClassStats class="mainlibrary.ViewBook" sourceFile="ViewBook.java" interface="false" size="250" bugs="0"/>
+      <ClassStats class="mainlibrary.ViewBook$1" sourceFile="ViewBook.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="mainlibrary.ViewBook$2" sourceFile="ViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ViewBook$3" sourceFile="ViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ViewBook$4" sourceFile="ViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ViewBook$5" sourceFile="ViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ViewBook$6" sourceFile="ViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ViewBook$7" sourceFile="ViewBook.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="mainlibrary.ViewBook$8" sourceFile="ViewBook.java" interface="false" size="9" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="554" invocations="1865" avgMicrosecondsPerInvocation="297" maxMicrosecondsPerInvocation="11335" standardDeviationMicrosecondsPerInvocation="656"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="269" invocations="452" avgMicrosecondsPerInvocation="595" maxMicrosecondsPerInvocation="15151" standardDeviationMicrosecondsPerInvocation="1454"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="244" invocations="452" avgMicrosecondsPerInvocation="541" maxMicrosecondsPerInvocation="9213" standardDeviationMicrosecondsPerInvocation="1120"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="220" invocations="1870" avgMicrosecondsPerInvocation="117" maxMicrosecondsPerInvocation="1969" standardDeviationMicrosecondsPerInvocation="80"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="159" invocations="1209" avgMicrosecondsPerInvocation="132" maxMicrosecondsPerInvocation="1867" standardDeviationMicrosecondsPerInvocation="190"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="153" invocations="476" avgMicrosecondsPerInvocation="323" maxMicrosecondsPerInvocation="14541" standardDeviationMicrosecondsPerInvocation="1012"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="149" invocations="476" avgMicrosecondsPerInvocation="315" maxMicrosecondsPerInvocation="7120" standardDeviationMicrosecondsPerInvocation="926"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="134" invocations="476" avgMicrosecondsPerInvocation="282" maxMicrosecondsPerInvocation="8081" standardDeviationMicrosecondsPerInvocation="749"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="129" invocations="497" avgMicrosecondsPerInvocation="259" maxMicrosecondsPerInvocation="8497" standardDeviationMicrosecondsPerInvocation="722"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="126" invocations="476" avgMicrosecondsPerInvocation="266" maxMicrosecondsPerInvocation="8290" standardDeviationMicrosecondsPerInvocation="754"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="112" invocations="497" avgMicrosecondsPerInvocation="226" maxMicrosecondsPerInvocation="6533" standardDeviationMicrosecondsPerInvocation="553"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.StreamResourceTracker" totalMilliseconds="96" invocations="99" avgMicrosecondsPerInvocation="979" maxMicrosecondsPerInvocation="20773" standardDeviationMicrosecondsPerInvocation="2252"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="89" invocations="452" avgMicrosecondsPerInvocation="198" maxMicrosecondsPerInvocation="3589" standardDeviationMicrosecondsPerInvocation="400"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="88" invocations="476" avgMicrosecondsPerInvocation="185" maxMicrosecondsPerInvocation="10367" standardDeviationMicrosecondsPerInvocation="544"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="75" invocations="431" avgMicrosecondsPerInvocation="175" maxMicrosecondsPerInvocation="4143" standardDeviationMicrosecondsPerInvocation="425"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="69" invocations="476" avgMicrosecondsPerInvocation="145" maxMicrosecondsPerInvocation="26027" standardDeviationMicrosecondsPerInvocation="1444"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="67" invocations="452" avgMicrosecondsPerInvocation="149" maxMicrosecondsPerInvocation="21215" standardDeviationMicrosecondsPerInvocation="1025"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="58" invocations="452" avgMicrosecondsPerInvocation="129" maxMicrosecondsPerInvocation="2593" standardDeviationMicrosecondsPerInvocation="268"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="58" invocations="452" avgMicrosecondsPerInvocation="128" maxMicrosecondsPerInvocation="9266" standardDeviationMicrosecondsPerInvocation="863"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="57" invocations="452" avgMicrosecondsPerInvocation="128" maxMicrosecondsPerInvocation="1297" standardDeviationMicrosecondsPerInvocation="210"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.obl.ObligationAnalysis" totalMilliseconds="53" invocations="136" avgMicrosecondsPerInvocation="394" maxMicrosecondsPerInvocation="8369" standardDeviationMicrosecondsPerInvocation="1128"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="51" invocations="548" avgMicrosecondsPerInvocation="94" maxMicrosecondsPerInvocation="13004" standardDeviationMicrosecondsPerInvocation="567"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="51" invocations="130" avgMicrosecondsPerInvocation="398" maxMicrosecondsPerInvocation="8698" standardDeviationMicrosecondsPerInvocation="1264"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="44" invocations="1816" avgMicrosecondsPerInvocation="24" maxMicrosecondsPerInvocation="786" standardDeviationMicrosecondsPerInvocation="46"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="44" invocations="452" avgMicrosecondsPerInvocation="97" maxMicrosecondsPerInvocation="4857" standardDeviationMicrosecondsPerInvocation="309"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="40" invocations="452" avgMicrosecondsPerInvocation="90" maxMicrosecondsPerInvocation="1891" standardDeviationMicrosecondsPerInvocation="195"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="40" invocations="452" avgMicrosecondsPerInvocation="89" maxMicrosecondsPerInvocation="5390" standardDeviationMicrosecondsPerInvocation="291"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="33" invocations="452" avgMicrosecondsPerInvocation="74" maxMicrosecondsPerInvocation="8239" standardDeviationMicrosecondsPerInvocation="399"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="32" invocations="130" avgMicrosecondsPerInvocation="253" maxMicrosecondsPerInvocation="4603" standardDeviationMicrosecondsPerInvocation="570"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="32" invocations="476" avgMicrosecondsPerInvocation="68" maxMicrosecondsPerInvocation="1792" standardDeviationMicrosecondsPerInvocation="163"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.csrf.SpringCsrfProtectionDisabledDetector" totalMilliseconds="31" invocations="130" avgMicrosecondsPerInvocation="242" maxMicrosecondsPerInvocation="22671" standardDeviationMicrosecondsPerInvocation="1979"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="28" invocations="130" avgMicrosecondsPerInvocation="217" maxMicrosecondsPerInvocation="2384" standardDeviationMicrosecondsPerInvocation="363"/>
+      <ClassProfile name="edu.umd.cs.findbugs.DetectorToDetector2Adapter" totalMilliseconds="25" invocations="30866" avgMicrosecondsPerInvocation="0" maxMicrosecondsPerInvocation="21" standardDeviationMicrosecondsPerInvocation="0"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="24" invocations="130" avgMicrosecondsPerInvocation="189" maxMicrosecondsPerInvocation="1989" standardDeviationMicrosecondsPerInvocation="359"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="23" invocations="130" avgMicrosecondsPerInvocation="183" maxMicrosecondsPerInvocation="2472" standardDeviationMicrosecondsPerInvocation="372"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="22" invocations="388" avgMicrosecondsPerInvocation="58" maxMicrosecondsPerInvocation="1495" standardDeviationMicrosecondsPerInvocation="138"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CheckRelaxingNullnessAnnotation" totalMilliseconds="22" invocations="130" avgMicrosecondsPerInvocation="169" maxMicrosecondsPerInvocation="7023" standardDeviationMicrosecondsPerInvocation="632"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindUnsatisfiedObligation" totalMilliseconds="21" invocations="130" avgMicrosecondsPerInvocation="162" maxMicrosecondsPerInvocation="5087" standardDeviationMicrosecondsPerInvocation="605"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.RuntimeExceptionCapture" totalMilliseconds="20" invocations="130" avgMicrosecondsPerInvocation="158" maxMicrosecondsPerInvocation="2625" standardDeviationMicrosecondsPerInvocation="374"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.password.ConstantPasswordDetector" totalMilliseconds="20" invocations="130" avgMicrosecondsPerInvocation="157" maxMicrosecondsPerInvocation="1869" standardDeviationMicrosecondsPerInvocation="313"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DefaultEncodingDetector" totalMilliseconds="19" invocations="130" avgMicrosecondsPerInvocation="153" maxMicrosecondsPerInvocation="2349" standardDeviationMicrosecondsPerInvocation="425"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref$CheckCallSitesAndReturnInstructions" totalMilliseconds="19" invocations="476" avgMicrosecondsPerInvocation="40" maxMicrosecondsPerInvocation="604" standardDeviationMicrosecondsPerInvocation="91"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.TypeQualifierNullnessAnnotationDatabase" totalMilliseconds="18" invocations="10488" avgMicrosecondsPerInvocation="1" maxMicrosecondsPerInvocation="1552" standardDeviationMicrosecondsPerInvocation="17"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.SerializableIdiom" totalMilliseconds="17" invocations="130" avgMicrosecondsPerInvocation="135" maxMicrosecondsPerInvocation="1609" standardDeviationMicrosecondsPerInvocation="242"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueRangeAnalysisFactory" totalMilliseconds="16" invocations="476" avgMicrosecondsPerInvocation="35" maxMicrosecondsPerInvocation="3680" standardDeviationMicrosecondsPerInvocation="212"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindUselessObjects" totalMilliseconds="16" invocations="130" avgMicrosecondsPerInvocation="127" maxMicrosecondsPerInvocation="2716" standardDeviationMicrosecondsPerInvocation="350"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison" totalMilliseconds="16" invocations="130" avgMicrosecondsPerInvocation="126" maxMicrosecondsPerInvocation="2276" standardDeviationMicrosecondsPerInvocation="244"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindDeadLocalStores" totalMilliseconds="16" invocations="130" avgMicrosecondsPerInvocation="123" maxMicrosecondsPerInvocation="1871" standardDeviationMicrosecondsPerInvocation="301"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.file.PathTraversalDetector" totalMilliseconds="14" invocations="130" avgMicrosecondsPerInvocation="113" maxMicrosecondsPerInvocation="1310" standardDeviationMicrosecondsPerInvocation="211"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindSelfComparison" totalMilliseconds="12" invocations="130" avgMicrosecondsPerInvocation="99" maxMicrosecondsPerInvocation="1726" standardDeviationMicrosecondsPerInvocation="220"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref" totalMilliseconds="12" invocations="130" avgMicrosecondsPerInvocation="99" maxMicrosecondsPerInvocation="1825" standardDeviationMicrosecondsPerInvocation="181"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
